@@ -1,0 +1,7 @@
+[submodule "dwijaybaneblog/themes/gruvbox"]
+	path = dwijaybaneblog/themes/gruvbox
+	url = https://github.com/schnerring/hugo-theme-gruvbox.git
+[submodule "dwijaybaneblog/public"]
+	path = dwijaybaneblog/public
+	url = https://github.com/dwijaybane/dwijaybane.github.io.git
+	branch = main

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Dwijay Bane",
+    "image": "https://avatars.githubusercontent.com/u/2122671?s=400&u=85207688a39bb18c5584b65b32ee13f4185f26ff&v=4",
+    "email": "dwijaybane2@gmail.com",
+    "url": "https://dwijaybane.github.io",
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "dwijaybane",
+        "url": "https://github.com/dwijaybane"
+      }
+    ]
+  }
+}
